@@ -1,0 +1,17 @@
+{
+  "name": "devicesdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "led.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arturo Verbel",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "express": "^4.17.1",
+    "onoff": "^3.2.9",
+    "rpio": "^0.9.23"
+  }
+}
